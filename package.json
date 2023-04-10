@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "CKs Express Test on Render",
   "main": "exercise1.js",
-  "repository": "https://github.com/SteeleRussell/classEx1",
-  "author": "SR",
+  "repository": "https://github.com/CK/classEx1",
+  "author": "CK",
   "license": "MIT",
   "private": false,
   "scripts": {
